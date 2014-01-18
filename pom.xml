@@ -132,9 +132,9 @@
 	</profiles>
 
     <scm>
-        <url>git:git@github.com:anotheria/moskito-control.git</url>
+        <url>git@github.com:dvayanu/net_banking.git</url>
         <connection>scm:git:git@github.com:anotheria/moskito-control.git</connection>
-        <developerConnection>scm:git:git@github.com:anotheria/moskito-control.git</developerConnection>
+        <developerConnection>scm:git:git@github.com:dvayanu/net_banking.git</developerConnection>
     </scm>
 
 </project>
